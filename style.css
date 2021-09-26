@@ -69,6 +69,7 @@
 
 .main-logo>img {
     display: inline-block;
+    width: 100%;
 }
 
 .main-logo>h2 {
